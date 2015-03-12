@@ -1,0 +1,24 @@
+Cmp-Mod V01 Created by Cvpcb 0.201503050816+5478~22~ubuntu14.10.1-product   date = Thursday 12 March 2015 11:34:32 PM IST
+
+BeginCmp
+TimeStamp = /5501C5AB;
+Reference = J1;
+ValeurCmp = DB9_M;
+IdModule  = serialpass:DB9MC;
+EndCmp
+
+BeginCmp
+TimeStamp = /5501C656;
+Reference = J2;
+ValeurCmp = DB9_F;
+IdModule  = serialpass:DB9FC;
+EndCmp
+
+BeginCmp
+TimeStamp = /5501C716;
+Reference = P1;
+ValeurCmp = CONN_01X09;
+IdModule  = serialpass:Pin_Header_Straight_1x09;
+EndCmp
+
+EndListe

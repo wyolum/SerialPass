@@ -1,0 +1,4 @@
+Reference, Value, Footprint, Datasheet
+J1,DB9_M,Connect:DB9FC,
+J2,DB9_F,Connect:DB9MC,
+P1,CONN_01X09,Pin_Headers:Pin_Header_Straight_1x09,
